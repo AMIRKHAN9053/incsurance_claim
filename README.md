@@ -46,7 +46,7 @@ jupyter notebook Auto_Insurance_Claims_Analysis_File.ipynb
 Kaggle - https://www.kaggle.com/datasets/thebumpkin/auto-insurance-claims-updated-to-2024.
 
 ## Contributors
-- Paras Bhalla
+- Amir khan
 
 ## License
 Specify the license here (e.g., MIT, Apache 2.0, etc.).
